@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Tushar
 #### I am a passionate programmer
-![I am a passionate programmer](https://scontent.fdel13-1.fna.fbcdn.net/v/t1.6435-9/s960x960/201401105_341281840937874_7596123345529486725_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=e3f864&_nc_ohc=bgYDZpd5GZYAX-FkHqd&_nc_ht=scontent.fdel13-1.fna&oh=f0404046b67292df3c74fa417dfb0d7e&oe=61961865)
+![I am a passionate programmer](https://media-exp1.licdn.com/dms/image/C4D16AQGyEhGuO3x7MA/profile-displaybackgroundimage-shrink_350_1400/0/1646582586516?e=1667433600&v=beta&t=L38479Cf8zK1ChVwWTiaZVeqZjweFZqoPlyPXU10ep8)
 
 I am Tushar, by profession I am still a student by I am a coder by heart.
 I love to work with different programming languages. :-)

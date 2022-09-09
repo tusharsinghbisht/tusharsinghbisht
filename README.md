@@ -2,7 +2,7 @@
 #### I am a passionate programmer
 ![I am a passionate programmer](https://media-exp1.licdn.com/dms/image/C4D16AQGyEhGuO3x7MA/profile-displaybackgroundimage-shrink_350_1400/0/1646582586516?e=1667433600&v=beta&t=L38479Cf8zK1ChVwWTiaZVeqZjweFZqoPlyPXU10ep8)
 
-I am Tushar, by profession I am still a student by I am a coder by heart.
+I am Tushar, by profession I am a student but I am a coder by heart.
 I love to work with different programming languages. :-)
 
 Skills: VUE JS / REACT / JS / HTML / CSS / PYTHON / JAVA / C / C++

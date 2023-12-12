@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Tushar
 #### I am a passionate programmer
-![I am a passionate programmer](./coder.png)
+![I am a passionate programmer](./5021330.png)
 
 I am Tushar, by profession I am a student but I am a coder by heart.
 I love to work with different programming languages. :-)

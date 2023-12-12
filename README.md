@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Tushar
 #### I am a passionate programmer
-![I am a passionate programmer](https://cdn0.iconfinder.com/data/icons/occupation-002/64/programmer-programming-occupation-avatar-512.png)
+![I am a passionate programmer](./coder.png)
 
 I am Tushar, by profession I am a student but I am a coder by heart.
 I love to work with different programming languages. :-)

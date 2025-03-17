@@ -1,8 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&background=000000&width=600&lines=Hii%2C+myself+Tushar+Singh+Bisht!)](https://github.com/tusharsinghbisht)
+<div align="center">
+  <a href="https://tusharsinghbisht.githbub.io/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=05F715&background=000000&center=true&vCenter=true&width=435&lines=Hii%2C+I+am+Tushar+Singh+Bisht+%F0%9F%91%8B" alt="Typing SVG" /></a>
+  <br><br>
+  <img alt="Tushar Singh Bisht" src="./start.gif">
+  <br>
+  <h4><b>Welcome to my github 🚀</b></h4>
+</div>
 
-![Tushar Singh Bisht](./start.gif)
-
-🔗 Website: [tusharr.xyz](https://tusharr.xyz/)
+🔗 Website: https://tusharr.xyz/
 
 ✉️ Email: [tusharcoder6@gmail.com](mailto:tusharcoder6@gmail.com)
 
@@ -15,7 +19,7 @@ I love to work on cool projects and stuff that I find interesting.
 
 
 ## 🌐 Socials:
-I'm kinda introvert, still you can find me on these platfroms
+I'm kinda introvert, still you can find me on these platforms
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/707421998078492744) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tushar_coder) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tusharsinghbisht) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@tusharCoder)
 
@@ -24,7 +28,7 @@ Reach me out on discord for fun talks 🤑
 ## 🛠️ Interests
 - Fullstack Development
 - Cloud computing and DevOps
-- AI/ML and MLOps
+- AI/ML/DL and MLOps
 - Cybersecurity
 - IoT and electronics
 - Low level stuff
@@ -57,6 +61,10 @@ Some github essentials -
 </div>
 <br><br>
 
-![Tushar Singh Bisht](./end.gif)
+<div align="center">
+  <img alt="Tushar Singh Bisht" src="./end.gif">
+  <br>
+  <h4><b>Have a nice day ✨</b></h4>
+</div>
 
-Have a nice day ✨
+

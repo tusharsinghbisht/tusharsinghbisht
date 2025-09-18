@@ -6,7 +6,7 @@
   <h4><b>Welcome to my github 🚀</b></h4>
 </div>
 
-🔗 Website: https://tusharr.xyz/
+🔗 Website: https://tusharsinghbisht.github.io/
 
 ✉️ Email: [tusharcoder6@gmail.com](mailto:tusharcoder6@gmail.com)
 
@@ -25,7 +25,7 @@ I'm kinda introvert, still you can find me on these platforms
 
 Reach me out on discord for fun talks 🤑
 
-## 🛠️ Interests
+## 🛠️ Interests (almost everything...)
 - Fullstack Development
 - Cloud computing and DevOps
 - AI/ML/DL and MLOps

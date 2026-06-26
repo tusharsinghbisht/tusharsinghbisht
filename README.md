@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tushar 👋</h1>
+<h1 align="center">Hi, I'm Tushar (aka benzo)👋</h1>
 
 <p align="center">
 Software Engineer • AI Systems • Cybersecurity • Cloud

@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.svg" alt="Pixel art night skyline with a raven on an antenna in front of the moon" width="100%" />
+</p>
+
 <h1 align="center">Tushar Singh Bisht</h1>
 
 <p align="center">

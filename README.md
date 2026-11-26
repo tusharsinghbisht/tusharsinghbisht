@@ -16,44 +16,12 @@
 
 ## Selected work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/tusharsinghbisht/altqueue"><b>altqueue</b></a><br />
-      <sub>Go · gRPC · Pebble</sub><br /><br />
-      Durable task queue with leases, retries, delayed jobs and dead-lettering.
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/tusharsinghbisht/corvus"><b>corvus</b></a><br />
-      <sub>Python · Wazuh · LangGraph</sub><br /><br />
-      Alert investigation for SOC teams: links detections to evidence and drafts cited, human-reviewed triage reports.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/tusharsinghbisht/dockerpulse"><b>dockerpulse</b></a><br />
-      <sub>Go · Next.js · ClickHouse</sub><br /><br />
-      Docker metrics, logs and events in one dashboard.
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/tusharsinghbisht/pastify"><b>pastify</b></a><br />
-      <sub>Python · sockets</sub><br /><br />
-      Flask-style web framework built from raw sockets.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/tusharsinghbisht/clumsy"><b>clumsy</b></a><br />
-      <sub>Python · ffmpeg</sub><br /><br />
-      Prompt to editable timeline to compiled video.
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/tusharsinghbisht/wmatrix"><b>wmatrix</b></a><br />
-      <sub>C</sub><br /><br />
-      Matrix digital rain for the terminal, on Windows and Linux.
-    </td>
-  </tr>
-</table>
+- [**altqueue**](https://github.com/tusharsinghbisht/altqueue): durable task queue in Go with leases, retries, delayed jobs and dead-lettering.
+- [**corvus**](https://github.com/tusharsinghbisht/corvus): alert investigation for SOC teams. Links detections to evidence and drafts cited, human-reviewed triage reports.
+- [**dockerpulse**](https://github.com/tusharsinghbisht/dockerpulse): Docker metrics, logs and events in one dashboard.
+- [**pastify**](https://github.com/tusharsinghbisht/pastify): Flask-style web framework built from raw sockets.
+- [**clumsy**](https://github.com/tusharsinghbisht/clumsy): prompt to editable timeline to compiled video.
+- [**wmatrix**](https://github.com/tusharsinghbisht/wmatrix): Matrix digital rain for the terminal, on Windows and Linux.
 
 <sub>More: <a href="https://github.com/tusharsinghbisht/ctf-writeups">CTF writeups</a> · <a href="https://github.com/tusharsinghbisht/ropemporium">ROP Emporium</a> · <a href="https://github.com/tusharsinghbisht/windots">windots</a></sub>
 

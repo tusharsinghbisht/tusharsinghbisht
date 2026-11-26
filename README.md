@@ -6,7 +6,7 @@
 
 <p align="center">
   Software engineer and security researcher at DTU, New Delhi.<br />
-  Building at the intersection of AI, security and developer tooling.
+  I work across AI, cloud infrastructure and security.
 </p>
 
 <p align="center">
@@ -40,5 +40,5 @@
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,py,ts,rust,c,cpp,postgres,redis,docker,kubernetes,aws,gcp&theme=dark" alt="Go, Python, TypeScript, Rust, C, C++, PostgreSQL, Redis, Docker, Kubernetes, AWS, GCP" />
+  <img src="https://skillicons.dev/icons?i=go,py,ts,rust,c,cpp,postgres,redis,linux,docker,kubernetes,aws,gcp,azure,cloudflare,githubactions&theme=dark" alt="Go, Python, TypeScript, Rust, C, C++, PostgreSQL, Redis, Linux, Docker, Kubernetes, AWS, GCP, Azure, Cloudflare, GitHub Actions" />
 </p>

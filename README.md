@@ -1,8 +1,8 @@
 <h1 align="center">Tushar Singh Bisht</h1>
 
 <p align="center">
-  Software engineer &amp; CTF player at DTU, New Delhi.<br />
-  Security tooling, developer tools and infrastructure.
+  Software engineer and security researcher at DTU, New Delhi.<br />
+  Building at the intersection of AI, security and developer tooling.
 </p>
 
 <p align="center">
@@ -14,21 +14,27 @@
 
 <br />
 
+## Now
+
+- Fullstack engineer at a stealth startup, building an AI-driven security monitoring platform.
+- President of [EHAX](https://github.com/E-HAX), the DTU cybersecurity club. We ran EHAX CTF for 3,000+ players.
+
 ## Selected work
 
-- [**altqueue**](https://github.com/tusharsinghbisht/altqueue): durable task queue in Go with leases, retries, delayed jobs and dead-lettering.
-- [**corvus**](https://github.com/tusharsinghbisht/corvus): alert investigation for SOC teams. Links detections to evidence and drafts cited, human-reviewed triage reports.
+- [**corvus**](https://github.com/tusharsinghbisht/corvus): AI SOC agent. Links detections to evidence and drafts cited, human-reviewed triage reports. Wazuh first.
+- [**altqueue**](https://github.com/tusharsinghbisht/altqueue): durable task queue in Go with gRPC, leases, retries, delayed jobs and dead-lettering.
 - [**dockerpulse**](https://github.com/tusharsinghbisht/dockerpulse): Docker metrics, logs and events in one dashboard.
-- [**pastify**](https://github.com/tusharsinghbisht/pastify): Flask-style web framework built from raw sockets.
-- [**clumsy**](https://github.com/tusharsinghbisht/clumsy): prompt to editable timeline to compiled video.
+- [**agentscan-ai**](https://0xbenzo.dev/projects/agentscan-ai): static scanner for indirect prompt injection and unsafe tool definitions in LangGraph systems.
+- [**microcache**](https://0xbenzo.dev/projects/microcache): single-binary key-value store in Go with replication.
+- [**victor-ctfd**](https://github.com/E-HAX/victor-ctfd): CTFd theme built for EHAX CTF.
 - [**wmatrix**](https://github.com/tusharsinghbisht/wmatrix): Matrix digital rain for the terminal, on Windows and Linux.
 
-<sub>More: <a href="https://github.com/tusharsinghbisht/ctf-writeups">CTF writeups</a> · <a href="https://github.com/tusharsinghbisht/ropemporium">ROP Emporium</a> · <a href="https://github.com/tusharsinghbisht/windots">windots</a></sub>
+<sub>More: <a href="https://0xbenzo.dev/projects">all projects</a> · <a href="https://0xbenzo.dev/blog">blog</a> · <a href="https://github.com/tusharsinghbisht/ctf-writeups">CTF writeups</a> · <a href="https://github.com/tusharsinghbisht/ropemporium">ROP Emporium</a> · <a href="https://github.com/tusharsinghbisht/windots">windots</a></sub>
 
 <br />
 
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,py,ts,c,cpp,postgres,redis,docker,kubernetes,aws&theme=dark" alt="Go, Python, TypeScript, C, C++, PostgreSQL, Redis, Docker, Kubernetes, AWS" />
+  <img src="https://skillicons.dev/icons?i=go,py,ts,rust,c,cpp,postgres,redis,docker,kubernetes,aws,gcp&theme=dark" alt="Go, Python, TypeScript, Rust, C, C++, PostgreSQL, Redis, Docker, Kubernetes, AWS, GCP" />
 </p>

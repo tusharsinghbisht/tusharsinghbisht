@@ -25,8 +25,8 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/tusharsinghbisht/corvus"><b>corvus</b></a><br />
-      <sub>Python · Suricata · Zeek</sub><br /><br />
-      AI correlation of network alerts to surface real threats.
+      <sub>Python · Wazuh · LangGraph</sub><br /><br />
+      Alert investigation for SOC teams: links detections to evidence and drafts cited, human-reviewed triage reports.
     </td>
   </tr>
   <tr>

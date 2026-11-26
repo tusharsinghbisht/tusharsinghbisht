@@ -1,4 +1,6 @@
-<h1 align="center">Tushar Singh Bisht</h1>
+<p align="center">
+  <img src="./assets/banner.svg" alt="Tushar Singh Bisht: AI, security and developer tooling" width="100%" />
+</p>
 
 <p align="center">
   Software engineer and security researcher at DTU, New Delhi.<br />
